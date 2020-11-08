@@ -13,7 +13,7 @@
 
 Consider that you have a string, **s**, containing lowercase English letters.
 
-Given this integer, **n**, find and print the number of letter **a**'s in the first **n** letters the string **s**.
+Given this integer, **n**, find and print the number of letter **a**'s in the first **n** letters of the string **s**.
 
 For example, if the string ***s = acacaba*** and ***n = 3***, the substring we consider is ***aca***, the first  characters of her infinite string. There are ***2*** occurrences of **a** in the substring.
 
